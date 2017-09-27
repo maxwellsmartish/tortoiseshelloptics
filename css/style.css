@@ -109,7 +109,7 @@ h2 {
 }
 
 div {
-   
+    border:1px dotted black;
 }
 
 footer {
@@ -149,3 +149,4 @@ footer img {
 #appointments {
     margin-left:5%;
 }
+
